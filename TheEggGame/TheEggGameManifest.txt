@@ -1,0 +1,3 @@
+Main-Class: TheEggGame
+Class-Path: ucigame.jar .
+

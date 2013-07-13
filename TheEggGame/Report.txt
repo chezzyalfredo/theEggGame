@@ -1,0 +1,17 @@
+How to play:
+  - Press N to start a new game
+  - Use the Arrow Keys to move the farmer around
+Objective:
+  - Use the farmer to run around the field and collect the Chicken's Eggs. When you collect more eggs the Chickens have a chance of becomming Angry or Depressed. If they're angry they will speed up and fly across the map. If they're depressed they will slowly trudge around the map.
+  - If you touch any of the chickens it is Game Over.
+  - UCIGAME was used to create this game.
+Credit:
+  - the egg and the chicken were both found online and resized and fixed for the game's creation, the place where I found it I'm not too sure about where it was.
+Software used:
+  - Eclipse
+Additional Information:
+  - Not implemented to be able to move diagonally
+  - It works on my computer when I run it from Eclipse as an applet after setting the Run Configurations for the applet to have a window of 640 x 480.
+  - I'm trying to figure out a way to make it playable for other computers as an application.
+    - in this I tried making a bat file to get it to run but when it runs, it won't register the arrowkeys being pressed after you press 'n'.
+    - Could you advise me on how I could fix that issue?
